@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Dodger", "Assembly-CSharp.csproj", "{6DB0A018-21CD-84D2-4C72-05D7E4A99F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Dodger", "Assembly-CSharp-Editor.csproj", "{237E15E0-A653-0FA2-D9A0-9799FB0BA94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB0A018-21CD-84D2-4C72-05D7E4A99F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB0A018-21CD-84D2-4C72-05D7E4A99F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB0A018-21CD-84D2-4C72-05D7E4A99F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB0A018-21CD-84D2-4C72-05D7E4A99F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237E15E0-A653-0FA2-D9A0-9799FB0BA94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237E15E0-A653-0FA2-D9A0-9799FB0BA94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237E15E0-A653-0FA2-D9A0-9799FB0BA94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237E15E0-A653-0FA2-D9A0-9799FB0BA94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
